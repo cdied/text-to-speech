@@ -1,6 +1,6 @@
 # ----------------  Text to Speech  --------------- #
-author: Sayed Mohammad Rezaie -- 13.Nov.2020
-github: @cdied
+* author: Sayed Mohammad Rezaie -- 13.Nov.2020
+* github: @cdied
 -----------------------------------------------------
 description:
 1. Text to speech using gtts
